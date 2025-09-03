@@ -8847,7 +8847,7 @@ html.lenis body {
   letter-spacing: 0.5px;
 }
 .main-menu .mega-grid {
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 0 50px;
   display: grid;
 }
