@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technical Specifications & Downloads</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+  <style>
+    .sub-products-container {
+      background: linear-gradient(135deg, #f8f9fa 0%, #fff 100%);
+      min-height: 100vh;
+      padding: 2rem 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .sub-products-section {
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(255, 165, 0, 0.1);
+      margin-bottom: 2rem;
+      overflow: hidden;
+      border: 1px solid rgba(255, 165, 0, 0.1);
+    }
+
+    .sub-products-header {
+      background: linear-gradient(135deg, #ff8c00 0%, #ff7f00 50%, #ff6600 100%);
+      color: white;
+      padding: 1.5rem;
+      margin: 0;
+      font-weight: 600;
+      font-size: 1.5rem;
+      border-bottom: 3px solid #ff5500;
+    }
+
+    .sub-products-table th {
+      background: linear-gradient(135deg, #fff5e6 0%, #ffe5cc 100%);
+      color: #cc5500;
+      font-weight: 600;
+      border: none;
+      padding: 1rem 1.5rem;
+      font-size: 1.1rem;
+      position: relative;
+    }
+
+    .sub-products-table th::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, #ff8c00 0%, #ff6600 100%);
+    }
+
+    .sub-products-table td {
+      padding: 1rem 1.5rem;
+      border: none;
+      border-bottom: 1px solid rgba(255, 165, 0, 0.1);
+      color: #555;
+      font-size: 1rem;
+      transition: background-color 0.3s ease;
+    }
+
+    .sub-products-table tbody tr:hover td {
+      background: linear-gradient(135deg, #fff9f0 0%, #fff5e6 100%);
+    }
+
+    .sub-products-table tbody tr:nth-child(even) {
+      background: rgba(255, 248, 240, 0.3);
+    }
+
+    .sub-products-parameter {
+      font-weight: 600;
+      color: #333;
+    }
+
+    .sub-products-details {
+      color: #666;
+      font-weight: 500;
+    }
+
+    .sub-products-spec-highlight {
+      background: linear-gradient(135deg, #fff2e6 0%, #ffe6cc 100%);
+      padding: 0.3rem 0.8rem;
+      border-radius: 6px;
+      font-weight: 600;
+      color: #cc5500;
+      display: inline-block;
+    }
+
+    .sub-products-badge {
+      background: linear-gradient(135deg, #ff8c00 0%, #ff6600 100%);
+      color: white;
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+
+    .sub-products-downloads-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+      padding: 2rem;
+    }
+
+    .sub-products-download-card {
+      background: linear-gradient(135deg, #fff 0%, #fff8f0 100%);
+      border-radius: 12px;
+      padding: 1.5rem;
+      text-align: center;
+      transition: all 0.3s ease;
+      border: 2px solid rgba(255, 165, 0, 0.1);
+      cursor: pointer;
+    }
+
+    .sub-products-download-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 15px 35px rgba(255, 140, 0, 0.2);
+      border-color: #ff8c00;
+    }
+
+    .sub-products-download-icon {
+      font-size: 3rem;
+      color: #ff8c00;
+      margin-bottom: 1rem;
+      transition: all 0.3s ease;
+    }
+
+    .sub-products-download-card:hover .sub-products-download-icon {
+      color: #ff6600;
+      transform: scale(1.1);
+    }
+
+    .sub-products-download-title {
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 0.5rem;
+    }
+
+    .sub-products-download-desc {
+      color: #666;
+      font-size: 0.95rem;
+      margin-bottom: 1rem;
+    }
+
+    .sub-products-download-btn {
+      background: linear-gradient(135deg, #ff8c00 0%, #ff6600 100%);
+      color: white;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-weight: 600;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    .sub-products-download-btn:hover {
+      background: linear-gradient(135deg, #ff7700 0%, #ff5500 100%);
+      transform: translateY(-2px);
+      box-shadow: 0 5px 15px rgba(255, 140, 0, 0.3);
+      color: white;
+    }
+
+    @media (max-width: 768px) {
+      .sub-products-table th,
+      .sub-products-table td {
+        padding: 0.75rem 1rem;
+        font-size: 0.9rem;
+      }
+      .sub-products-downloads-grid {
+        grid-template-columns: 1fr;
+        padding: 1rem;
+      }
+      .sub-products-header {
+        font-size: 1.3rem;
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="sub-products-container">
+    <div class="container">
+
+      <!-- Technical Specifications Section -->
+      <div class="sub-products-section">
+        <h5 class="sub-products-header">
+          <i class="fas fa-cogs me-2"></i>
+          5. Technical Specifications
+        </h5>
+        <div class="table-responsive">
+          <table class="table sub-products-table">
+            <thead>
+              <tr>
+                <th scope="col" style="width: 35%;">Parameter</th>
+                <th scope="col" style="width: 65%;">Details</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="sub-products-parameter">
+                  <i class="fas fa-weight-hanging me-2 text-warning"></i> Density
+                </td>
+                <td class="sub-products-details">
+                  <span class="sub-products-spec-highlight">64</span> / 
+                  <span class="sub-products-spec-highlight">96</span> / 
+                  <span class="sub-products-spec-highlight">128</span> kg/m³
+                </td>
+              </tr>
+              <tr>
+                <td class="sub-products-parameter">
+                  <i class="fas fa-ruler me-2 text-warning"></i> Thickness Range
+                </td>
+                <td class="sub-products-details">
+                  <span class="sub-products-spec-highlight">12mm – 50mm</span>
+                </td>
+              </tr>
+              <tr>
+                <td class="sub-products-parameter">
+                  <i class="fas fa-thermometer-half me-2 text-warning"></i> Temperature Grade
+                </td>
+                <td class="sub-products-details">
+                  Up to <span class="sub-products-spec-highlight">1260°C – 1600°C</span>
+                  <span class="sub-products-badge">High Performance</span>
+                </td>
+              </tr>
+              <tr>
+                <td class="sub-products-parameter">
+                  <i class="fas fa-palette me-2 text-warning"></i> Colour
+                </td>
+                <td class="sub-products-details">
+                  <span class="sub-products-spec-highlight">White</span>
+                </td>
+              </tr>
+              <tr>
+                <td class="sub-products-parameter">
+                  <i class="fas fa-shapes me-2 text-warning"></i> Form
+                </td>
+                <td class="sub-products-details">
+                  <span class="sub-products-spec-highlight">Roll</span> / 
+                  <span class="sub-products-spec-highlight">Sheet</span> / 
+                  <span class="sub-products-spec-highlight">Custom cuts</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Downloads & Resources Section -->
+      <div class="sub-products-section">
+        <h5 class="sub-products-header">
+          <i class="fas fa-download me-2"></i>
+          8. Downloads & Resources
+        </h5>
+        <div class="sub-products-downloads-grid">
+          <div class="sub-products-download-card">
+            <div class="sub-products-download-icon">
+              <i class="fas fa-file-pdf"></i>
+            </div>
+            <div class="sub-products-download-title">Technical Data Sheet</div>
+            <div class="sub-products-download-desc">
+              Comprehensive technical specifications and performance data
+            </div>
+            <a href="#" class="sub-products-download-btn">
+              <i class="fas fa-download me-2"></i>Download PDF
+            </a>
+          </div>
+
+          <div class="sub-products-download-card">
+            <div class="sub-products-download-icon">
+              <i class="fas fa-book"></i>
+            </div>
+            <div class="sub-products-download-title">Product Catalogs</div>
+            <div class="sub-products-download-desc">
+              Complete product range and application guides
+            </div>
+            <a href="#" class="sub-products-download-btn">
+              <i class="fas fa-download me-2"></i>View Catalogs
+            </a>
+          </div>
+
+          <div class="sub-products-download-card">
+            <div class="sub-products-download-icon">
+              <i class="fas fa-tools"></i>
+            </div>
+            <div class="sub-products-download-title">Installation Guide</div>
+            <div class="sub-products-download-desc">
+              Step-by-step installation instructions and best practices
+            </div>
+            <a href="#" class="sub-products-download-btn">
+              <i class="fas fa-download me-2"></i>Get Guide
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
