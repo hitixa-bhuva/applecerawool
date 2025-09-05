@@ -15978,8 +15978,8 @@ html.lenis body {
   animation: rs-fold linear 0.3s;
 }
 .rs-why-choose-one .rs-why-choose-icon {
-  width: 80px;
-  height: 80px;
+  width: 10px;
+  height: 10px;
   background: var(--rs-theme-blue);
   display: flex;
   align-items: center;
@@ -25686,3 +25686,171 @@ a.ui-button:active {
 }
 /*# sourceMappingURL=../maps/main.css.map */
 
+ .sub-products-container {
+            background: linear-gradient(135deg, #f8f9fa 0%, #fff 100%);
+            /* min-height: 100vh; */
+            padding: 2rem 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .sub-products-section {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(255, 165, 0, 0.1);
+            margin-bottom: 2rem;
+            overflow: hidden;
+            border: 1px solid rgba(255, 165, 0, 0.1);
+        }
+
+
+        .sub-products-table {
+            margin: 0;
+            background: white;
+        }
+
+        .sub-products-table th {
+            background: linear-gradient(135deg, #fff5e6 0%, #ffe5cc 100%);
+            color: #cc5500;
+            font-weight: 600;
+            border: none;
+            padding: 1rem 1.5rem;
+            font-size: 1.7rem;
+            position: relative;
+        }
+
+        .sub-products-table th::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, #ff8c00 0%, #ff6600 100%);
+        }
+
+        .sub-products-table td {
+            padding: 1rem 1.5rem;
+            border: none;
+            border-bottom: 1px solid rgba(255, 165, 0, 0.1);
+            color: #555;
+            font-size: 1.5rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .sub-products-table tbody tr:hover td {
+            background: linear-gradient(135deg, #fff9f0 0%, #fff5e6 100%);
+        }
+
+        .sub-products-table tbody tr:nth-child(even) {
+            background: rgba(255, 248, 240, 0.3);
+        }
+
+        .sub-products-parameter {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .sub-products-details {
+            color: #666;
+            font-weight: 500;
+        }
+
+        .sub-products-downloads-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            padding: 2rem;
+        }
+
+        .sub-products-download-card {
+            background: linear-gradient(135deg, #fff 0%, #fff8f0 100%);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 2px solid rgba(255, 165, 0, 0.1);
+            cursor: pointer;
+        }
+
+        .sub-products-download-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(255, 140, 0, 0.2);
+            border-color: #ff8c00;
+        }
+
+        .sub-products-download-icon {
+            font-size: 3rem;
+            color: #ff8c00;
+            margin-bottom: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .sub-products-download-card:hover .sub-products-download-icon {
+            color: #ff6600;
+            transform: scale(1.1);
+        }
+
+        .sub-products-download-title {
+            font-size: 2rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 0.5rem;
+        }
+
+        .sub-products-download-desc {
+            color: #666;
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .sub-products-download-btn {
+            background: linear-gradient(135deg, #ff8c00 0%, #ff6600 100%);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .sub-products-download-btn:hover {
+            background: linear-gradient(135deg, #ff7700 0%, #ff5500 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255, 140, 0, 0.3);
+            color: white;
+        }
+
+        .sub-products-spec-highlight {
+            background: linear-gradient(135deg, #fff2e6 0%, #ffe6cc 100%);
+            padding: 0.3rem 0.8rem;
+            border-radius: 6px;
+            font-weight: 600;
+            color: #cc5500;
+            display: inline-block;
+        }
+
+        @media (max-width: 768px) {
+            .sub-products-table th,
+            .sub-products-table td {
+                padding: 0.75rem 1rem;
+                font-size: 0.9rem;
+            }
+
+            .sub-products-downloads-grid {
+                grid-template-columns: 1fr;
+                padding: 1rem;
+            }
+
+        }
+
+        .sub-products-badge {
+            background: linear-gradient(135deg, #ff8c00 0%, #ff6600 100%);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-left: 0.5rem;
+        }
