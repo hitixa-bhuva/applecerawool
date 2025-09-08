@@ -5319,6 +5319,10 @@ html.lenis body {
 }
 .rs-theme-dir {
   text-align: center;
+  display: none;
+}
+.rs-theme-settings{
+  display: none;
 }
 .rs-theme-dir-main {
   display: inline-block;
