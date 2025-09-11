@@ -198,13 +198,13 @@ h6, .body__overlay {
   --rs-black: #1F1F1F;
   --rs-light: #eee;
   --rs-theme-orange: #EA5501;
-  --rs-theme-red: #E30613;
-  --rs-theme-blue: #005EB8;
+  --rs-theme-red: #EA5501;
+  --rs-theme-blue: #EA5501;
   --rs-theme-light-blue: #0D80CE;
-  --rs-theme-green: #023B4A;
-  --rs-theme-light-green: #507A7C;
-  --rs-theme-yellow: #F7C600;
-  --rs-theme-deep-blue: #3B37FD;
+  --rs-theme-green: #1F1F1F;
+  --rs-theme-light-green: #EA5501;
+  --rs-theme-yellow: #EA5501;
+  --rs-theme-deep-blue: #EA5501;
   --rs-text-primary: #616161;
   --rs-text-secondary: #CBCCCD;
   --rs-text-tertiary: #142340;
@@ -2801,7 +2801,7 @@ textarea:focus {
   font-family: var(--rs-ff-title);
 }
 .rs-section-title.has-theme-blue {
-  color: #0C3C61;
+  color: #1f1f1f;
 }
 .rs-section-title.has-theme-light-blue {
   color: var(--rs-text-tertiary);
@@ -3291,7 +3291,7 @@ input[type=checkbox] ~ label:hover {
   background: #ea3e00;
 }
 .backtotop-wrap.has-theme-green {
-  background: #507a7c;
+  background: #EA5501;
 }
 .backtotop-wrap.has-theme-yellow {
   background: var(--rs-theme-yellow);
@@ -9471,7 +9471,7 @@ html.lenis body {
   color: var(--rs-theme-blue);
 }
 .rs-blog-one.has-theme-blue .rs-blog-bg-thumb.has-bg::before {
-  background: linear-gradient(transparent, #005EB8), linear-gradient(transparent, #000000);
+  background: linear-gradient(transparent, #EA5501), linear-gradient(transparent, #000000);
 }
 .rs-blog-one.has-theme-blue .rs-blog-thumb {
   position: relative;
@@ -9479,7 +9479,7 @@ html.lenis body {
   height: 100%;
 }
 .rs-blog-one.has-theme-blue .rs-blog-title {
-  color: #0C3C61;
+  color: #1f1f1f;
 }
 .rs-blog-one.has-theme-blue .rs-blog-title.has-white {
   color: var(--rs-white);
@@ -12911,7 +12911,7 @@ html.lenis body {
   }
 }
 .rs-about-ten .rs-about-thumb img {
-  width: 100%;
+  width: 90%;
 }
 .rs-about-ten .rs-section-title-wrapper .descrip {
   margin-top: 15px;
@@ -14377,7 +14377,7 @@ html.lenis body {
   position: relative;
 }
 .rs-subscribe-one .rs-subscribe-input input {
-  background: #0C3C61;
+  background: #1f1f1f;
   height: 70px;
   border-radius: 50px;
   color: var(--rs-white);
@@ -14488,7 +14488,7 @@ html.lenis body {
 .rs-feature-two .rs-feature-title {
   font-size: 30px;
   margin-bottom: 20px;
-  color: #0C3C61;
+  color: #1f1f1f;
 }
 @media only screen and (max-width: 1600px) {
   .rs-feature-two .rs-feature-title {
@@ -15059,7 +15059,7 @@ html.lenis body {
   background-color: var(--rs-theme-blue);
 }
 .rs-team-one.has-theme-blue .rs-team-title {
-  color: #0C3C61;
+  color: #1f1f1f;
 }
 .rs-team-one.has-theme-blue .rs-team-title a:hover {
   color: var(--rs-theme-blue);
@@ -15997,7 +15997,7 @@ html.lenis body {
   fill: var(--rs-white);
 }
 .rs-why-choose-one .rs-why-choose-title {
-  color: #0C3C61;
+  color: #1f1f1f;
   font-size: 22px;
   margin-bottom: 5px;
 }
@@ -16010,12 +16010,12 @@ html.lenis body {
 }
 .rs-why-choose-one .rs-why-choose-progress .progress-title {
   font-size: 18px;
-  color: #0C3C61;
+  color: #1f1f1f;
   font-weight: 500;
 }
 .rs-why-choose-one .rs-why-choose-progress .progress-number {
   font-size: 16px;
-  color: #0C3C61;
+  color: #1f1f1f;
   font-weight: 500;
 }
 .rs-why-choose-one .rs-why-choose-progress .progress {
@@ -16980,7 +16980,7 @@ html.lenis body {
   }
 }
 .rs-services-three.has-theme-blue .rs-services-title {
-  color: #0C3C61;
+  color: #1f1f1f;
 }
 .rs-services-three.has-theme-orange .rs-services-item:hover .rs-square-btn {
   background: var(--rs-theme-orange);
@@ -18424,7 +18424,7 @@ html.lenis body {
   gap: 20px;
 }
 .rs-portfolio-two .rs-portfolio-title {
-  color: #0C3C61;
+  color: #1f1f1f;
 }
 .rs-portfolio-two .rs-portfolio-title a:hover {
   color: var(--rs-theme-blue);
@@ -25858,3 +25858,12 @@ a.ui-button:active {
             font-weight: 600;
             margin-left: 0.5rem;
         }
+        .rs-breadcrumb-bg::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%; /* controls how far up the shadow goes */
+    background: linear-gradient(to top, rgb(0 0 0 / 80%) 0%, #0000004f 60%);
+}
