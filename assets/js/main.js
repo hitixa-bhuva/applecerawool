@@ -436,7 +436,7 @@
       }
       document.querySelectorAll(".multipage-menu a").forEach((e) => {
         const t = e.getAttribute("href");
-        if (t === d || ("" === d && "index.html" === t)) {
+        if (t === d || ("" === d && "home" === t)) {
           e.classList.add("active");
           let t = e.parentElement;
           for (; t; )
