@@ -510,7 +510,43 @@ include __DIR__ . '/A_Layout/Header/header.php';
     </main>
     <!-- Body main wrapper end -->
 
-  
+   <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+<script>
+  (function() {
+    emailjs.init("uvB66ucnKJGy8mdZb"); // Your Public Key
+  })();
+
+  document.getElementById("contact-form").addEventListener("submit", function(event) {
+    event.preventDefault();
+
+    emailjs.sendForm("service_jwc3a4f", "template_36yenjh", this)
+      .then(function(response) {
+        // Show success toast
+        const toastEl = document.getElementById('email-toast');
+        const toastBody = document.getElementById('toast-body');
+        toastBody.innerText = "✅ Message sent successfully!";
+        toastEl.classList.remove('text-bg-danger');
+        toastEl.classList.add('text-bg-success');
+        const toast = new bootstrap.Toast(toastEl);
+        toast.show();
+
+        // Reset form
+        document.getElementById("contact-form").reset();
+      }, function(error) {
+        // Show error toast
+        const toastEl = document.getElementById('email-toast');
+        const toastBody = document.getElementById('toast-body');
+        toastBody.innerText = "❌ Failed to send message. Please try again.";
+        toastEl.classList.remove('text-bg-success');
+        toastEl.classList.add('text-bg-danger');
+        const toast = new bootstrap.Toast(toastEl);
+        toast.show();
+
+        console.error("EmailJS Error:", error);
+      });
+  });
+</script>
+
 <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>
