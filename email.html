@@ -1,0 +1,83 @@
+ <div style="max-width: 600px; margin: 0 auto; background-color: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    
+    <!-- Header with Logo -->
+    <div style="background: linear-gradient(135deg, #ff5c00 0%, #ff7a2f 100%); padding: 30px 20px; text-align: center;">
+      <div style="background-color: white; margin: 0 auto;  display: inline-flex; align-items: center; justify-content: center; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+        <img src="./assets/images/logo/apple-cera-wool-or-blu.png" alt="Logo" style="max-width: 100px; max-height: 100px; display: block;" />
+      </div>
+      <h1 style="color: white; margin: 15px 0 5px 0; font-size: 24px; font-family: system-ui, sans-serif;">New Contact Message</h1>
+      <p style="color: rgba(255,255,255,0.9); margin: 0; font-size: 14px; font-family: system-ui, sans-serif;">You have received a new inquiry</p>
+    </div>
+    
+    <!-- Content -->
+    <div style="padding: 30px 20px; font-family: system-ui, sans-serif, Arial;">
+      
+      <div style="background-color: #fff5f0; border-left: 4px solid #ff5c00; padding: 15px; margin-bottom: 25px; border-radius: 4px;">
+        <p style="margin: 0; font-size: 14px; color: #2c3e50;">
+          <strong>{{name}}</strong> has sent you a message. Please respond at your earliest convenience.
+        </p>
+      </div>
+      
+      <!-- Message Card -->
+      <div style="border: 1px solid #e8e8e8; border-radius: 8px; overflow: hidden;">
+        <table role="presentation" style="width: 100%; border-collapse: collapse;">
+          <tr>
+            <td style="vertical-align: top; padding: 20px; background-color: #fafafa; width: 80px; text-align: center;">
+              <div style="width: 60px; height: 60px; background: linear-gradient(135deg, #ff5c00 0%, #ff7a2f 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; margin: 0 auto;" role="img">
+                👤
+              </div>
+            </td>
+            <td style="vertical-align: top; padding: 20px;">
+              <div style="color: #2c3e50; font-size: 18px; font-weight: 600; margin-bottom: 5px;">
+                {{name}}
+              </div>
+              <div style="color: #95a5a6; font-size: 12px; margin-bottom: 15px;">
+                {{time}}
+              </div>
+              
+              <!-- Contact Information -->
+              <table role="presentation" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+                <tr>
+                  <td style="padding: 8px 0; font-size: 13px;">
+                    <span style="display: inline-block; width: 24px; text-align: center;">📧</span>
+                    <span style="color: #7f8c8d; font-weight: 600; margin-right: 8px;">Email:</span>
+                    <a href="mailto:{{email}}" style="color: #ff5c00; text-decoration: none;">{{email}}</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding: 8px 0; font-size: 13px;">
+                    <span style="display: inline-block; width: 24px; text-align: center;">📞</span>
+                    <span style="color: #7f8c8d; font-weight: 600; margin-right: 8px;">Phone:</span>
+                    <a href="tel:{{phone}}" style="color: #ff5c00; text-decoration: none;">{{phone}}</a>
+                  </td>
+                </tr>
+              </table>
+              
+              <!-- Message Section -->
+              <div style="border-top: 1px dashed #e0e0e0; padding-top: 15px;">
+                <div style="color: #7f8c8d; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px;">
+                  Message
+                </div>
+                <div style="font-size: 15px; color: #2c3e50; line-height: 1.7;">
+                  {{message}}
+                </div>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    
+      
+    </div>
+    
+    <!-- Footer -->
+    <div style="background-color: #f8f9fa; padding: 20px; text-align: center; border-top: 1px solid #e8e8e8;">
+      <p style="margin: 0 0 5px 0; color: #95a5a6; font-size: 12px; font-family: system-ui, sans-serif;">
+        This is an automated message from your website contact form
+      </p>
+      <p style="margin: 0; color: #bdc3c7; font-size: 11px; font-family: system-ui, sans-serif;">
+        © 2025 Your Company. All rights reserved.
+      </p>
+    </div>
+    
+  </div>
