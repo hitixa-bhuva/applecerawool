@@ -1,210 +1,12 @@
-<!doctype html>
-<html class="no-js" lang="zxx">
+<?php
+$Title = "Hard Refractory Brick | Apple Cerawool Industrial Insulation Solutions";
+$MetaDescription = "Apple Cerawool Hard Refractory Bricks provide high-strength, durable insulation for industrial and high-temperature applications. Ideal for furnaces, kilns, and refractory structures.";
+$MetaKeywords = "hard refractory brick, Apple Cerawool refractory bricks, industrial insulation, high-temperature bricks, furnace bricks, kiln bricks, refractory solutions";
+?>
 
-<head>
-    <title>About Apple Cerawool | Leading Ceramic Fiber & Refractory Experts from Gujarat</title>
-<meta name="description" content="Learn about Apple Cerawool, a trusted name from Lakhatar, Surendranagar (Gujarat, India), delivering top-quality ceramic fiber, refractory insulation, and custom thermal engineering solutions worldwide.">
-<meta name="keywords" content="about Apple Cerawool, ceramic insulation experts, refractory manufacturer Gujarat, thermal engineering company, insulation industry India">
-<meta name="author" content="Apply Cera Wood">
-
-<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<meta name="googlebot" content="index, follow">
-<meta name="bingbot" content="index, follow">
-
-<link rel="canonical" href="https://hitixa-bhuva.github.io/applecerawool/">
-
-<meta property="og:type" content="website">
-<meta property="og:title" content="About Apple Cerawool | Leading Ceramic Fiber & Refractory Experts from Gujarat">
-<meta property="og:description" content="Learn about Apple Cerawool, a trusted name from Lakhatar, Surendranagar (Gujarat, India), delivering top-quality ceramic fiber, refractory insulation, and custom thermal engineering solutions worldwide.">
-<meta property="og:image" content="https://yourwebsite.com/assets/images/og-about.jpg">
-<meta property="og:url" content="https://yourwebsite.com/about">
-<meta property="og:site_name" content="Apple Cerawool">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="About Apply Cera Wood | Ceramic Fiber Experts">
-<meta name="twitter:description" content="Learn about Apple Cerawool, a trusted name from Lakhatar, Surendranagar (Gujarat, India), delivering top-quality ceramic fiber, refractory insulation, and custom thermal engineering solutions worldwide.">
-<meta name="twitter:image" content="https://yourwebsite.com/assets/images/og-about.jpg">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Content-Language" content="en">
-<meta charset="UTF-8">
-
-<link rel="icon" type="image/png" href="https://hitixa-bhuva.github.io/applecerawool/assets/images/favicon.png">
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Apple Cerawool",
-  "url": "https://hitixa-bhuva.github.io/applecerawool/",
-  "logo": "https://hitixa-bhuva.github.io/applecerawool/assets/images/logo/apple-cera-wool-or-blu.png",
-  "sameAs": [
-    "https://www.facebook.com/people/AppleCerawool-PvtLtd/pfbid037AKuMGUzfvh6urxaqthHBTEypse2itCK7kw5NnxDUV2gtS1CqeKHBjJF3f3GCHEwl/?rdid=vXtlWvGmxvRKuyam&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1B6iMv4467%2F",
-    "https://www.linkedin.com/company/applecerawool",
-    "https://www.instagram.com/applecerawoolpvtltd/?igsh=MTN3dmhqOXQ2Mzkyeg%3D%3D#"
-  ],
-  "description": "Learn about Apple Cerawool, a trusted name from Lakhatar, Surendranagar (Gujarat, India), delivering top-quality ceramic fiber, refractory insulation, and custom thermal engineering solutions worldwide.",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91-8000002234",
-    "contactType": "Customer Service",
-    "areaServed": "Worldwide",
-    "availableLanguage": ["English"]
-  }
-}
-</script>
-
-<meta name="theme-color" content="#ffffff">
-<meta name="apple-mobile-web-app-title" content="Apple Cerawool">
-<meta name="application-name" content="Apple Cerawool">
-<meta name="format-detection" content="telephone=no">
-
-    <!-- Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/favicon-apple.jpeg">
-
-    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/vendor/animate.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
-    <link rel="stylesheet" href="assets/css/plugins/nouislider.min.css">
-    <link rel="stylesheet" href="assets/css/vendor/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/vendor/odometer.min.css">
-    <link rel="stylesheet" href="assets/css/vendor/fontawesome-pro.css">
-    <link rel="stylesheet" href="assets/css/vendor/spacing.css">
-    <link rel="stylesheet" href="assets/css/vendor/remixicon.css">
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="assets/css/whatsapp.css">
-</head>
-
-<body class="rs-smoother-yes rtl">
-
-    <!-- preloader start -->
-    <div id="pre-load">
-        <div id="loader" class="loader">
-            <div class="loader-container">
-                <div class="loader-icon"><img src="assets/images/logo/favicon-apple-removebg-preview.png" alt=""></div>
-            </div>
-        </div>
-    </div>
-    <!-- preloader end -->
-
-    <!-- preloader start -->
-
-    <div id="rs-mouse">
-        <div id="cursor-ball"></div>
-    </div>
-
-    <!-- preloader end -->
-
-    <!-- Header area start -->
-      <header>
-        <div class="rs-header-area rs-header-one" id="header-sticky">
-            <div class="container-fluid g-0">
-                <div class="rs-header-inner">
-                    <div class="rs-header-left">
-                        <div class="rs-header-logo-wrapper">
-                            <div class="rs-header-logo">
-                                <a href="home"><img src="assets/images/logo/apple-cera-wool-or-blu.png" alt="logo"></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="rs-header-menu">
-                        
-                        <nav id="mobile-menu" class="main-menu">
-                            <ul class="multipage-menu">
-                                <li><a href="home">Home</a></li>
-                                <!-- about menu -->
-                                <li><a href="about-us">About</a></li>
-                                
-                                <!-- elements menu -->
-                                <li class="has-mega-menu menu-item-has-children">
-                                    <a href="products">Products</a>
-                                    <ul class="mega-menu mega-grid">
-                                        <li>
-                                            <a href="products/ceramin-fiber" class="title">Ceramic Fiber</a>
-                                            <ul>
-                                                <li><a href="products/ceramic-fiber-blanket">Ceramic Fiber Blanket</a></li>
-                                                <li><a href="products/ceramic-boards">Ceramic Boards</a></li>
-                                                <li><a href="ceramic-bulk-fiber.html">Ceramic Bulk Fiber</a></li>
-                                                <li><a href="products/ceramic-microporous-insulation">Ceramic Microporous Insulation</a></li>
-                                                <li><a href="products/ceramic-modules">Ceramic Modules</a></li>
-                                                <li><a href="products/ceramic-papers-felts">Ceramic Papers & Felts</a></li>
-                                                <li><a href="products/ceramic-textiles">Ceramic Textiles</a></li>
-                                            </ul>
-                                        </li>
-                                         <li>
-                                            <!-- <a href="products/ceramin-fiber" class="title">Ceramic Fiber</a> -->
-                                            <ul>
-                                                <li><a href="mixes-coatings.html">Mixes & Coatings</a></li>
-                                                <li><a href="hard-refractory-brick.html">Hard Refractory & Brick</a></li>
-                                                <li><a href="products/specialty-miscellaneous">Specialty & Miscellaneous</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <!-- page menu -->
-                                <li>
-                                    <a href="industries">Industries </a>
-                                </li>
-                                <li class="menu-item-has-children">
-                                    <a href="services">Services </a>
-                                    <ul class="submenu last-children">
-                                        <li>
-                                            <a href="services/custom-gaskets">Custom Gaskets</a>
-                                        </li>
-                                        <li>
-                                            <a href="furnace-doors.html">Furnace Doors</a>
-                                        </li>
-                                        <li>
-                                            <a href="services/vacuum-formed-shapes">Vacuum-Formed Shapes</a>
-                                        </li>
-                                        <li>
-                                            <a href="machined-parts.html">Machined Parts</a>
-                                        </li>
-                                        <li>
-                                            <a href="services/coatings">Coatings</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a href="project-management.html">Project Management</a></li>
-                                
-                                 <!-- <li><a href="blog">Blog</a></li> -->
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="rs-header-right">
-                        
-                        <div class="rs-header-btn">
-                            <a class="rs-btn has-theme-orange has-icon has-bg" href="contact">Contact
-                                <span class="icon-box">
-                                <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                    <path
-                                        d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                    </path>
-                                </svg>
-                                <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                    <path
-                                        d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                    </path>
-                                </svg>
-                            </span>
-                            </a>
-                        </div>
-                        <div class="rs-header-hamburger">
-                            <div class="sidebar-toggle">
-                                <a class="bar-icon" href="javascript:void(0)">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20" fill="none">
-                                        <path d="M8.55566 11H1.55566C1.29045 11 1.03609 11.1054 0.848557 11.2929C0.661021 11.4804 0.555664 11.7348 0.555664 12V19C0.555664 19.2652 0.661021 19.5196 0.848557 19.7071C1.03609 19.8946 1.29045 20 1.55566 20H8.55566C8.82088 20 9.07523 19.8946 9.26277 19.7071C9.45031 19.5196 9.55566 19.2652 9.55566 19V12C9.55566 11.7348 9.45031 11.4804 9.26277 11.2929C9.07523 11.1054 8.82088 11 8.55566 11ZM7.55566 18H2.55566V13H7.55566V18ZM19.5557 0H12.5557C12.2904 0 12.0361 0.105357 11.8486 0.292893C11.661 0.48043 11.5557 0.734784 11.5557 1V8C11.5557 8.26522 11.661 8.51957 11.8486 8.70711C12.0361 8.89464 12.2904 9 12.5557 9H19.5557C19.8209 9 20.0752 8.89464 20.2628 8.70711C20.4503 8.51957 20.5557 8.26522 20.5557 8V1C20.5557 0.734784 20.4503 0.48043 20.2628 0.292893C20.0752 0.105357 19.8209 0 19.5557 0ZM18.5557 7H13.5557V2H18.5557V7ZM19.5557 11H12.5557C12.2904 11 12.0361 11.1054 11.8486 11.2929C11.661 11.4804 11.5557 11.7348 11.5557 12V19C11.5557 19.2652 11.661 19.5196 11.8486 19.7071C12.0361 19.8946 12.2904 20 12.5557 20H19.5557C19.8209 20 20.0752 19.8946 20.2628 19.7071C20.4503 19.5196 20.5557 19.2652 20.5557 19V12C20.5557 11.7348 20.4503 11.4804 20.2628 11.2929C20.0752 11.1054 19.8209 11 19.5557 11ZM18.5557 18H13.5557V13H18.5557V18ZM8.55566 0H1.55566C1.29045 0 1.03609 0.105357 0.848557 0.292893C0.661021 0.48043 0.555664 0.734784 0.555664 1V8C0.555664 8.26522 0.661021 8.51957 0.848557 8.70711C1.03609 8.89464 1.29045 9 1.55566 9H8.55566C8.82088 9 9.07523 8.89464 9.26277 8.70711C9.45031 8.51957 9.55566 8.26522 9.55566 8V1C9.55566 0.734784 9.45031 0.48043 9.26277 0.292893C9.07523 0.105357 8.82088 0 8.55566 0ZM7.55566 7H2.55566V2H7.55566V7Z" fill="#616161"></path>
-                                    </svg>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Header area end -->
+<?php
+include __DIR__ . '/A_Layout/Header/header.php';
+?>
 
     <!-- Offcanvas area start -->
     <div class="fix">
@@ -232,8 +34,8 @@
                     <div class="offcanvas-gallery d-none d-sm-block">
                         <div class="offcanvas-gallery-thumb-wrapper">
                             <div class="offcanvas-popup-thumb">
-                                <a class="popup-image" href="assets/images/product/CeramicFiberBlanket/Ceramic-Fiber-Blanket-3.jpg">
-                                    <img src="assets/images/product/CeramicFiberBlanket/Ceramic-Fiber-Blanket-3.jpg" alt="image">
+                                <a class="popup-image" href="assets/images/product/CeramicFiberRope/Ceramic-Fiber-Rope-8.jpg">
+                                    <img src="assets/images/product/CeramicFiberRope/Ceramic-Fiber-Rope-8.jpg" alt="image">
                                 </a>
                             </div>
                             <div class="offcanvas-popup-thumb">
@@ -331,19 +133,19 @@
 
         <!-- breadcrumb area start -->
         <section class="rs-breadcrumb-area rs-breadcrumb-one p-relative">
-            <div class="rs-breadcrumb-bg" data-background="assets/images/blog/blog-thumb-04.png"></div>
+            <div class="rs-breadcrumb-bg" data-background="assets/images/about/about-thumb-01.png"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xxl-6 col-xl-8 col-lg-8">
                         <div class="rs-breadcrumb-content-wrapper">
                             <div class="rs-breadcrumb-title-wrapper">
-                                <h1 class="rs-breadcrumb-title">About Us</h1>
+                                <h1 class="rs-breadcrumb-title">Hard Refractory & Brick</h1>
                             </div>
                             <div class="rs-breadcrumb-menu">
                                 <nav>
                                     <ul>
-                                        <li><span><a href="home">Home</a></span></li>
-                                        <li><span>About Us</span></li>
+                                        <li><span><a href="home">Industrie</a></span></li>
+                                        <li><span>Hard Refractory & Brick</span></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -354,303 +156,188 @@
         </section>
         <!-- breadcrumb area end -->
 
-        <!-- about area start -->
-        <section class="rs-about-area section-space rs-about-thirteen rs-history-one">
+            <!-- about area start -->
+        <section class="rs-about-area section-space rs-about-ten">
+            <div class="rs-about-shape-two">
+                <img src="assets/images/shape/robo-arm-03.png" alt="image">
+            </div>
             <div class="container">
-                <div class="row align-items-xxl-center g-5">
-                    <div class="col-xl-6 col-lg-5">
-                        <div class="rs-about-thumb-wrapper">
-                            <div class="rs-about-thumb has-large rs-image scroll_reveal reveal_left reveal-active">
-                                <img decoding="async" src="assets/images/about/about-thumb-20.png" alt="image">
+                <div class="row g-5">
+                    <div class="col-12">
+                        <div class="rs-about-wrapper">
+                            <div class="rs-about-thumb-wrapper">
+                                <div class="rs-about-shape-one prallax-parent">
+                                    <img data-depth="1.3" src="assets/images/shape/dott-shape.png" alt="image">
+                                </div>
+                                <div class="rs-about-thumb">
+                                    <img src="assets/images/product/CeramicFiberBlanket.jpg" alt="image">
+                                </div>
                             </div>
-                            <div class="rs-about-thumb has-small rs-image scroll_reveal reveal_right reveal-active">
-                                <img decoding="async" src="assets/images/product/CeramicFiberBoard/Ceramic-Fiber-Board-3.jpg" alt="image">
+                            <div class="rs-about-content-wrapper">
+                                <div class="rs-section-title-wrapper">
+                                    <span class="rs-section-subtitle has-stroke justify-content-start">
+                             Hard Refractory & Brick
+                           </span>
+                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade">Unmatched Strength, Durability & Thermal Resistance</h2>
+                                    <p class="descrip">Engineered refractory solutions for the toughest industrial conditions.</p>
+                                </div>
+                                <div class="rs-aobut-tab-content-wrapper">
+                                    <div class="tab-content rs-about-tab-anim" id="pills-tabContent">
+                                        <div class="tab-pane fade show active" id="pills-item-one" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
+                                            <div class="rs-about-tab-content">
+                                                <p>Hard refractories and bricks form the backbone of industrial furnaces, kilns, and reactors. Designed to withstand extreme heat, pressure, and corrosive environments, they ensure reliable lining protection and extended furnace life.</p>
+                                                <p>Widely used across steel, cement, glass, aluminum, and chemical industries, these products guarantee strength, efficiency, and long-term performance.</p>
+                                                <!-- <ul>
+                                                    <li>ceramic textiles</li>
+                                                    <li>ropes</li>
+                                                    <li>cloth</li>
+                                                    <li>tape</li>
+                                                    <li>fire safety</li>
+                                                </ul> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-7">
+                </div>
+            </div>
+        </section>
+        <!-- about area end -->
+<!-- why choose area start -->
+        <section class="rs-why-choose-area section-space rs-why-choose-one primary-bg">
+            <div class="container">
+                <div class="row align-items-xl-center g-5">
+                    <div class="col-xl-7 col-lg-7">
+                        <div class="rs-why-choose-content-wrapper">
+                            <div class="rs-section-title-wrapper section-title-space">
+                                <span class="rs-section-subtitle has-theme-blue justify-content-start">
+                           Key Features
+                        </span>
+                                <h2 class="rs-section-title has-theme-blue rs-split-text-enable split-in-fade">Why Choose Our Bricks?</h2>
+                                <p>Our refractory bricks combine durability, efficiency, and reliability for critical applications.</p>
+                            </div>
+                            <div class="rs-why-choose-item-wrapper">
+                                <div class="rs-why-choose-item">
+                                    <div class="rs-why-choose-icon has-white">
+                                        
+                                    </div>
+                                    <div class="rs-why-choose-content">
+                                        <h5 class="rs-why-choose-title"> Thermal shock resistance</h5>
+                                    </div>
+                                </div>
+                                <div class="rs-why-choose-item">
+                                    <div class="rs-why-choose-icon has-white">
+                                        
+                                    </div>
+                                    <div class="rs-why-choose-content">
+                                        <h5 class="rs-why-choose-title">High mechanical strength</h5>
+                                    </div>
+                                </div>
+                                <div class="rs-why-choose-item">
+                                    <div class="rs-why-choose-icon has-white">
+                                        
+                                    </div>
+                                    <div class="rs-why-choose-content">
+                                        <h5 class="rs-why-choose-title">Long service life</h5>
+                                    </div>
+                                </div>
+                                <div class="rs-why-choose-item">
+                                    <div class="rs-why-choose-icon has-white">
+                                        
+                                    </div>
+                                    <div class="rs-why-choose-content">
+                                        <h5 class="rs-why-choose-title">Wear & corrosion resistance</h5>
+                                    </div>
+                                </div>
+                                <div class="rs-why-choose-item">
+                                    <div class="rs-why-choose-icon has-white">
+                                        
+                                    </div>
+                                    <div class="rs-why-choose-content">
+                                        <h5 class="rs-why-choose-title">Available in multiple grades & densities</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-5 col-lg-5">
+                        <div class="rs-why-choose-thumb-wrapper">
+                            <div class="rs-why-choose-thumb">
+                                <img src="assets/images/product/CeramicFiberRope/Ceramic-Fiber-Rope-1.jpg   " alt="image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- why choose area end -->
+            <!-- about area start -->
+        <section class="rs-about-area section-space rs-about-ten">
+            <div class="rs-about-shape-two">
+                <img src="assets/images/shape/robo-arm-03.png" alt="image">
+            </div>
+            <div class="container">
+                <div class="row g-5">
+                    <div class="col-12">
                         <div class="rs-about-wrapper">
                             <div class="rs-about-content-wrapper">
                                 <div class="rs-section-title-wrapper">
-                                    <span class="rs-section-subtitle has-theme-orange justify-content-start">
-                              <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15"
-                                 fill="none">
-                                 <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                                 <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
-                                    fill="#EA5501"></path>
-                              </svg>
-                              About Apple Cera Wool
+                                    <span class="rs-section-subtitle has-stroke justify-content-start">
+                              Applications & Benefits
                            </span>
-                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade">Innovation in Ceramics & Refractories, Since 2025</h2>
-                                    <h6 class="rs-section-title rs-split-text-enable split-in-fade">Building reliable thermal solutions that industries trust.</h6>
-                                    <p class="descrip">Apple Cera Wool is a next-generation provider of ceramic fiber and refractory insulation solutions, established in 2025. We specialize in developing high-performance materials that withstand extreme temperatures and demanding industrial conditions. With a focus on quality, innovation, and sustainability, we serve industries such as steel, aluminum, glass, cement, power, and chemicals. Our mission is simple—deliver trusted thermal solutions that improve efficiency, safety, and long-term performance for our clients worldwide.</p>
-                                    <div class="rs-history-tab-list">
-                                     <div class="rs-list-item">
-                                         <ul>
-                                             <li>
-                                                 Trusted Thermal Insulation Partner
-                                             </li>
-                                             <li>
-                                                 Innovative & Sustainable Materials
-                                             </li>
-                                             <li>
-                                                 High-Performance Refractory Solutions
-                                             </li>
-                                             <li>
-                                                 End-to-End Project Support
-                                             </li>
-                                         </ul>
-                                     </div>
-                                 </div>
+                                    <h2 class="rs-section-title rs-split-text-enable split-in-fade">Where It’s Used</h2>
+                                    <p>Refractory bricks are trusted across industries where extreme heat and durability are critical.</p>
+                                </div>
+                                <div class="rs-aobut-tab-content-wrapper">
+                                    <div class="tab-content rs-about-tab-anim" id="pills-tabContent">
+                                        <div class="tab-pane fade show active" id="pills-item-one" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
+                                            <div class="rs-about-tab-content">
+                                                <div class="rs-about-feature-list">
+                                                    <div class="rs-list-item has-theme-orange">
+                                                        <ul>
+                                                            <li>
+                                                                <i class="fa-regular fa-check"></i>
+                                                               Steel furnaces & ladles
+                                                            </li>
+                                                            <li>
+                                                                <i class="fa-regular fa-check"></i>
+                                                                Cement rotary kilns & preheaters
+                                                            </li>
+                                                            <li>
+                                                                <i class="fa-regular fa-check"></i>
+                                                                Glass furnaces
+                                                            </li>
+                                                            <li>
+                                                                <i class="fa-regular fa-check"></i>
+                                                               Boilers & incinerators
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
+                            <div class="rs-about-thumb-wrapper">
+                                <div class="rs-about-shape-one prallax-parent">
+                                    <img data-depth="1.3" src="assets/images/shape/dott-shape.png" alt="image">
+                                </div>
+                                <div class="rs-about-thumb">
+                                    <img src="assets/images/product/CeramicFiberBulk.jpg" alt="image">
+                                </div>
+                            </div>
+                            
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <!-- about area end -->
-
-        <!-- about area start -->
-        <section class="rs-about-area section-space-bottom rs-about-twelve">
-            <div class="container">
-                <div class="row  g-5 justify-content-center section-title-space align-items-center">
-                    <div class="col-xxl-8 col-xl-9 col-lg-9">
-                        <div class="rs-section-title-wrapper text-center">
-                            <span class="rs-section-subtitle has-theme-orange">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
-                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                           <path fill-rule="evenodd" clip-rule="evenodd"
-                              d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
-                              fill="#EA5501"></path>
-                        </svg>
-                        What Drives Us
-                     </span>
-                            <h3 class="rs-section-title rs-split-text-enable split-in-fade">Empowering industries with sustainable, high-performance solutions.</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="row g-5">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="rs-about-wrapper">
-                            <div class="rs-about-shape">
-                                <img src="assets/images/shape/about-shape-06.png" alt="image">
-                            </div>
-                            <div class="rs-about-thumb">
-                                <img src="assets/images/about/about-thumb-18.png" alt="image">
-                            </div>
-                            <div class="rs-about-content">
-                                <h6 class="rs-about-title">Our Mission</h6>
-                                <p>To deliver innovative, durable, and cost-effective ceramic and refractory products that optimize industrial performance.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="rs-about-wrapper">
-                            <div class="rs-about-shape">
-                                <img src="assets/images/shape/about-shape-07.png" alt="image">
-                            </div>
-                            <div class="rs-about-thumb">
-                                <img src="assets/images/about/about-thumb-19.png" alt="image">
-                            </div>
-                            <div class="rs-about-content">
-                                <h6 class="rs-about-title">Our Vision</h6>
-                                <p>To be recognized globally as a trusted leader in advanced ceramic fiber and refractory solutions.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- about area end -->
-
-        <!-- history area start -->
-        <section class="rs-history-area section-space rs-history-one">
-            <div class="rs-history-bg-thumb" data-background="assets/images/bg/tab-bg-01.png"></div>
-            <div class="container">
-                <div class="row  g-5 justify-content-center section-title-space align-items-center">
-                    <div class="col-xxl-6 col-xl-6 col-lg-6">
-                        <div class="rs-section-title-wrapper text-center">
-                            <span class="rs-section-subtitle has-theme-orange">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
-                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                           <path fill-rule="evenodd" clip-rule="evenodd"
-                              d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
-                              fill="#EA5501"></path>
-                        </svg>
-                        Our History
-                     </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">A New Vision for Industrial Excellence</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-xxl-9 col-xl-10">
-                        <div class="rs-history-tab-wrapper">
-                            <div class="rs-history-tab">
-                                <ul class="nav nav-pills" id="pills-tab" role="tablist">
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link active" id="pills-item-one-tab" data-bs-toggle="pill" data-bs-target="#pills-item-one" type="button" role="tab" aria-controls="pills-item-one" aria-selected="true">
-                                            In 2024
-                                        </button>
-                                    </li>
-                                    <!-- <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="pills-item-two-tab" data-bs-toggle="pill" data-bs-target="#pills-item-two" type="button" role="tab" aria-controls="pills-item-two" aria-selected="false"> In 2000
-                                        </button>
-                                    </li> -->
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="pills-item-three-tab" data-bs-toggle="pill" data-bs-target="#pills-item-three" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false">
-                                            In 2025
-                                        </button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="pills-item-four-tab" data-bs-toggle="pill" data-bs-target="#pills-item-four" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false">
-                                            In 2026
-                                        </button>
-                                    </li>
-                                    <!-- <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="pills-item-five-tab" data-bs-toggle="pill" data-bs-target="#pills-item-five" type="button" role="tab" aria-controls="pills-item-three" aria-selected="false">
-                                            In 2024
-                                        </button>
-                                    </li> -->
-                                </ul>
-                            </div>
-                            <div class="rs-history-tab-content-wrapper">
-                                <div class="tab-content rs-history-tab-anim" id="pills-tabContent">
-                                    <div class="tab-pane fade show active" id="pills-item-one" role="tabpanel" aria-labelledby="pills-item-one-tab" tabindex="0">
-                                        <div class="rs-history-tab-item">
-                                            <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-01.png" alt="image">
-                                            </div>
-                                            <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Foundation Year</h5>
-                                                <p>
-                                                    Apple Cera Wool was structured with a clear vision to deliver world-class thermal solutions. This year marked the beginning of our journey with a strong mission and roadmap. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Company structure created
-                                                            </li>
-                                                            <li>
-                                                                Vision & mission defined
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="tab-pane fade" id="pills-item-three" role="tabpanel" aria-labelledby="pills-item-three-tab" tabindex="0">
-                                        <div class="rs-history-tab-item">
-                                            <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-02.png" alt="image">
-                                            </div>
-                                            <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Operational Launch</h5>
-                                                <p>Our operations officially began, taking on real projects and building trust with our first clients. It was the year we turned plans into action. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Started real projects
-                                                            </li>
-                                                            <li>
-                                                                Built first industry trust
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="tab-pane fade" id="pills-item-four" role="tabpanel" aria-labelledby="pills-item-four-tab" tabindex="0">
-                                        <div class="rs-history-tab-item">
-                                            <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/product/CeramicFiberModule/Ceramic-Fiber-Module-5.jpg" alt="image">
-                                            </div>
-                                            <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Growth & Excellence</h5>
-                                                <p>We expanded with a professional workforce and introduced advanced products. This enabled us to fulfill every client requirement with complete and reliable solutions.</p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Advanced products delivered
-                                                            </li>
-                                                            <li>
-                                                                Client needs fully met
-                                                            </li>
-                                                            <li>Professional workforce onboard</li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- <div class="tab-pane fade" id="pills-item-four" role="tabpanel" aria-labelledby="pills-item-four-tab" tabindex="0">
-                                        <div class="rs-history-tab-item">
-                                            <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-04.png" alt="image">
-                                            </div>
-                                            <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
-                                                <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="tab-pane fade" id="pills-item-five" role="tabpanel" aria-labelledby="pills-item-five-tab" tabindex="0">
-                                        <div class="rs-history-tab-item">
-                                            <div class="rs-history-tab-thumb">
-                                                <img src="assets/images/history/history-thumb-05.png" alt="image">
-                                            </div>
-                                            <div class="rs-history-tab-content">
-                                                <h5 class="rs-history-tab-title">Journey Was Started</h5>
-                                                <p>
-                                                    Welcome to Industrie, a leading industry innovator with a rich history of
-                                                    excellence. With a passion for precision and a commitment to quality, we have
-                                                    been empowering industries and driving progress. </p>
-                                                <div class="rs-history-tab-list">
-                                                    <div class="rs-list-item">
-                                                        <ul>
-                                                            <li>
-                                                                Quality Control System
-                                                            </li>
-                                                            <li>
-                                                                Building Quality Industrial
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- history area start -->
-
-        <!-- category area start -->
+         <!-- category area start -->
         <section class="rs-category-area rs-category-one section-space primary-bg">
             <div class="rs-category-bg-thumb" data-background="assets/images/bg/category-bg-01.png"></div>
             <div class="container">
@@ -664,9 +351,9 @@
                               d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
                               fill="#EA5501"></path>
                         </svg>
-                        Why Choose Us
+                        Types of Refractory Bricks
                      </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Excellence, reliability, and trust in every product we deliver</h2>
+                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">Explore our diverse range of refractory solutions tailored to industrial needs.</h2>
                         </div>
                     </div>
                 </div>
@@ -700,8 +387,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Innovative Product Range</h5>
-                                <p class="descrip">Advanced ceramic fiber & refractory solutions. </p>
+                                <h5 class="rs-category-title">Fire Clay Bricks </h5>
+                                <p class="descrip">Cost-effective furnace lining solutions. </p>
                             </div>
                         </div>
                     </div>
@@ -740,8 +427,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Uncompromised Quality</h5>
-                                <p class="descrip">Strict focus on standards and compliance.</p>
+                                <h5 class="rs-category-title">High Alumina Bricks </h5>
+                                <p class="descrip">High strength with thermal shock resistance.</p>
                             </div>
                         </div>
                     </div>
@@ -784,8 +471,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">R&D Excellence</h5>
-                                <p class="descrip">Continuous innovation backed by technical expertise. </p>
+                                <h5 class="rs-category-title">Insulating Bricks </h5>
+                                <p class="descrip">Lightweight bricks with excellent thermal efficiency. </p>
                             </div>
                         </div>
                     </div>
@@ -814,8 +501,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Customized Solutions</h5>
-                                <p class="descrip">Tailored to meet diverse industrial needs.</p>
+                                <h5 class="rs-category-title">Silica Bricks </h5>
+                                <p class="descrip">Superior strength for glass & coke ovens.</p>
                             </div>
                         </div>
                     </div>
@@ -882,8 +569,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title"> Global Reach</h5>
-                                <p class="descrip">Serving clients with worldwide service support. </p>
+                                <h5 class="rs-category-title"> Magnesite Bricks </h5>
+                                <p class="descrip">Resistant to basic slags & extreme temperatures. </p>
                             </div>
                         </div>
                     </div>
@@ -1034,8 +721,8 @@
                                 </svg>
                             </div>
                             <div class="rs-category-content">
-                                <h5 class="rs-category-title">Trusted Reliability</h5>
-                                <p class="descrip">Building long-term partnerships with confidence. </p>
+                                <h5 class="rs-category-title">Custom Shapes & Sizes </h5>
+                                <p class="descrip">Designed to meet unique furnace configurations. </p>
                             </div>
                         </div>
                     </div>
@@ -1044,328 +731,144 @@
         </section>
         <!-- category area end -->
 
-          <!-- progress area start -->
-        <section class="rs-progress-area rs-progress-one has-space section-space">
-            <div class="container">
-                <div class="row g-5">
-                    <div class="col-xl-12 col-lg-12">
-                        <div class="rs-progress-wrapper">
-                            <div class="rs-progress-bg-thumb" data-background="assets/images/progress/progress-thumb-02.png">
-                            </div>
-                            <div class="rs-progress-content">
-                                <span class="rs-progress-subtitle">Advanced QA & Lab Testing </span>
-                                <h3 class="rs-progress-title">Precision-tested for performance <br> and reliability.</h3>
-                                <p class="text-white">Every product undergoes rigorous lab testing to meet strict industry benchmarks. Our QA systems check <br> heat resistance, strength, and durability, ensuring clients receive only the highest-quality materials.</p>
-                                <div class="rs-progress-btn">
-                                    <a class="rs-btn has-theme-orange has-icon has-bg" href="contact">Explore More
-                                        <span class="icon-box">
-                                 <svg class="icon-first" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                    <path
-                                       d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                    </path>
-                                 </svg>
-                                 <svg class="icon-second" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-                                    <path
-                                       d="M31.71,15.29l-10-10L20.29,6.71,28.59,15H0v2H28.59l-8.29,8.29,1.41,1.41,10-10A1,1,0,0,0,31.71,15.29Z">
-                                    </path>
-                                 </svg>
-                              </span>
-                                    </a>
-                                </div>
-                            </div>
+
+        <section class="">
+            <div class="sub-products-container">
+        <div class="container">
+            <!-- Technical Specifications Section -->
+            <div class="sub-products-section">
+                <div class="table-responsive">
+                    <table class="table sub-products-table">
+                        <thead>
+                            <tr>
+                                <th scope="col" style="width: 35%;">Parameter</th>
+                                <th scope="col" style="width: 65%;">Details</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                             <tr>
+                                <td class="sub-products-parameter">
+                                    <i class="fas fa-weight-hanging me-2 text-warning"></i>
+                                    Density
+                                </td>
+                                <td class="sub-products-details">
+                                    <span class="sub-products-spec-highlight">1.0</span> / 
+                                    <span class="sub-products-spec-highlight">3.0</span> g/cc
+                                </td>
+                            </tr> 
+                            <tr>
+                                <td class="sub-products-parameter">
+                                    <i class="fas fa-ruler me-2 text-warning"></i>
+                                    Application Method
+                                </td>
+                                <td class="sub-products-details">
+                                    <span class="sub-products-spec-highlight">Brush </span> /
+                                    <span class="sub-products-spec-highlight">Spray </span> /
+                                    <span class="sub-products-spec-highlight">Trowel</span> 
+                                </td>
+                            </tr>
+                            - <tr>
+                                <td class="sub-products-parameter">
+                                    <i class="fas fa-weight-hanging me-2 text-warning"></i>
+                                    Density
+                                </td>
+                                <td class="sub-products-details">
+                                    <span class="sub-products-spec-highlight">250</span> / 
+                                    <span class="sub-products-spec-highlight">450</span> kg/m³
+                                </td>
+                            </tr> 
+                            <tr>
+                                <td class="sub-products-parameter">
+                                    <i class="fas fa-thermometer-half me-2 text-warning"></i>
+                                    Temperature Grade
+                                </td>
+                                <td class="sub-products-details">
+                                    Up to <span class="sub-products-spec-highlight"> Up to 1800°C</span>
+                                    <span class="sub-products-badge">Low to High</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="sub-products-parameter">
+                                    <i class="fas fa-palette me-2 text-warning"></i>
+                                    Shapes
+                                </td>
+                                <td class="sub-products-details">
+                                    <span class="sub-products-spec-highlight">Standard  </span> /
+                                    <span class="sub-products-spec-highlight">Custom </span>
+                                </td>
+                            </tr>
+                            <!-- <tr>
+                                <td class="sub-products-parameter">
+                                    <i class="fas fa-shapes me-2 text-warning"></i>
+                                    Form
+                                </td>
+                                <td class="sub-products-details">
+                                     <span class="sub-products-spec-highlight">Cloth </span> /
+                                     <span class="sub-products-spec-highlight">Tape  </span> /
+                                    <span class="sub-products-spec-highlight">Rope </span>
+                                </td>
+                            </tr> -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Downloads & Resources Section -->
+            <div class="sub-products-section">
+                <div class="sub-products-downloads-grid">
+                    <div class="sub-products-download-card">
+                        <div class="sub-products-download-icon">
+                            <i class="fas fa-file-pdf"></i>
                         </div>
+                        <div class="sub-products-download-title">Technical Data Sheet</div>
+                        <div class="sub-products-download-desc">
+                            Comprehensive technical specifications and performance data
+                        </div>
+                        <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" 
+                           class="sub-products-download-btn" target="_blank">
+                            <i class="fas fa-download me-2"></i>Download PDF
+                        </a>
+                    </div>
+
+                    <div class="sub-products-download-card">
+                        <div class="sub-products-download-icon">
+                            <i class="fas fa-book"></i>
+                        </div>
+                        <div class="sub-products-download-title">Product Catalogs</div>
+                        <div class="sub-products-download-desc">
+                            Complete product range and application guides
+                        </div>
+                        <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" 
+                           class="sub-products-download-btn" target="_blank">
+                            <i class="fas fa-download me-2"></i>View Catalogs
+                        </a>
+                    </div>
+
+                    <div class="sub-products-download-card">
+                        <div class="sub-products-download-icon">
+                            <i class="fas fa-tools"></i>
+                        </div>
+                        <div class="sub-products-download-title">Installation Guide</div>
+                        <div class="sub-products-download-desc">
+                            Step-by-step installation instructions and best practices
+                        </div>
+                        <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" 
+                           class="sub-products-download-btn" target="_blank">
+                            <i class="fas fa-download me-2"></i>Get Guide
+                        </a>
+                        <!-- <a href="#" class="sub-products-download-btn">
+                            <i class="fas fa-download me-2"></i>Get Guide
+                        </a> -->
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
         </section>
-        <!-- progress area end -->
-
-        <!-- team area start -->
-        <section class="rs-team-area section-space rs-team-one">
-            <div class="container">
-                <div class="row  g-5 justify-content-center section-title-space align-items-center">
-                    <div class="col-xxl-7 col-xl-8 col-lg-8">
-                        <div class="rs-section-title-wrapper text-center">
-                            <span class="rs-section-subtitle has-theme-orange">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="15" viewBox="0 0 11 15" fill="none">
-                           <path d="M3.14286 10L0 15L8.78104e-07 0L3.14286 5V10Z" fill="#EA5501"></path>
-                           <path fill-rule="evenodd" clip-rule="evenodd"
-                              d="M6.28571 10L3.14286 15L3.14286 10L4.71428 7.5L3.14286 5L3.14286 0L6.28571 5L6.28571 10ZM6.28571 10L7.85714 7.5L6.28571 5V0L11 7.5L6.28571 15V10Z"
-                              fill="#EA5501"></path>
-                        </svg>
-                        Engineer
-                     </span>
-                            <h2 class="rs-section-title rs-split-text-enable split-in-fade">The Best Industry Experts</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row g-5">
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="rs-team-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration="1s">
-                            <div class="rs-team-thumb has-clip">
-                                <a href="contact"><img src="assets/images/team/Jigneshbhai-patel.png" alt="image"></a>
-                            </div>
-                            <div class="rs-team-content-wrapper">
-                                <div class="rs-team-content-box">
-                                    <h5 class="rs-team-title"><a href="contact">Jigneshbhai patel</a></h5>
-                                    <span class="rs-team-designation">Director</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="rs-team-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                            <div class="rs-team-thumb has-clip">
-                                <a href="contact"> <img src="assets/images/team/Bhupatbhai-Patel.png" alt="image"></a>
-                            </div>
-                            <div class="rs-team-content-wrapper">
-                                <div class="rs-team-content-box">
-                                    <h5 class="rs-team-title"><a href="contact">Bhupatbhai Patel</a></h5>
-                                    <span class="rs-team-designation">Director</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="rs-team-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration="1s">
-                            <div class="rs-team-thumb has-clip">
-                                <a href="contact"><img src="assets/images/team/Hiteshbhai-kunpara.png" alt="image"></a>
-                            </div>
-                            <div class="rs-team-content-wrapper">
-                                <div class="rs-team-content-box">
-                                    <h5 class="rs-team-title"><a href="contact">Hiteshbhai kunpara</a></h5>
-                                    <span class="rs-team-designation">Director</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-6">
-                        <div class="rs-team-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration="1s">
-                            <div class="rs-team-thumb has-clip">
-                                <a href="contact"> <img src="assets/images/team/Anilbhai-patel.png" alt="image"></a>
-                            </div>
-                            <div class="rs-team-content-wrapper">
-                                <div class="rs-team-content-box">
-                                    <h5 class="rs-team-title"><a href="contact">Anilbhai patel</a></h5>
-                                    <span class="rs-team-designation">Director</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- team area end -->
-
-
     </main>
     <!-- Body main wrapper end -->
 
-    <div class="rs-footer-bg-thumb-wrapper has-theme-orange">
-        <div class="rs-footer-bg-thumb" data-background="assets/images/bg/footer-bg-02.png"></div>
-
-        <!-- subscribe area start -->
-        
-        <!-- subscribe area end -->
-
-        <!-- Body main wrapper end -->
-
-        <!--====== whatsapp ======-->
-        <div id="contactbtn" class="arcontactus-widget arcontactus-message arcu-scale right md active arcuAnimated">
-          <div class="arcontactus-message-button no-text" style="background-color:#333;"  onclick="redirectToWhatsApp()">
-            <div class="static">
-              <div class="img-24">
-                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-                  <path fill="#fff"
-                    d="M4.868,43.303l2.694-9.835C5.9,30.59,5.026,27.324,5.027,23.979C5.032,13.514,13.548,5,24.014,5c5.079,0.002,9.845,1.979,13.43,5.566c3.584,3.588,5.558,8.356,5.556,13.428c-0.004,10.465-8.522,18.98-18.986,18.98c-0.001,0,0,0,0,0h-0.008c-3.177-0.001-6.3-0.798-9.073-2.311L4.868,43.303z">
-                  </path>
-                  <path fill="#fff"
-                    d="M4.868,43.803c-0.132,0-0.26-0.052-0.355-0.148c-0.125-0.127-0.174-0.312-0.127-0.483l2.639-9.636c-1.636-2.906-2.499-6.206-2.497-9.556C4.532,13.238,13.273,4.5,24.014,4.5c5.21,0.002,10.105,2.031,13.784,5.713c3.679,3.683,5.704,8.577,5.702,13.781c-0.004,10.741-8.746,19.48-19.486,19.48c-3.189-0.001-6.344-0.788-9.144-2.277l-9.875,2.589C4.953,43.798,4.911,43.803,4.868,43.803z">
-                  </path>
-                  <path fill="#cfd8dc"
-                    d="M24.014,5c5.079,0.002,9.845,1.979,13.43,5.566c3.584,3.588,5.558,8.356,5.556,13.428c-0.004,10.465-8.522,18.98-18.986,18.98h-0.008c-3.177-0.001-6.3-0.798-9.073-2.311L4.868,43.303l2.694-9.835C5.9,30.59,5.026,27.324,5.027,23.979C5.032,13.514,13.548,5,24.014,5 M24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974 M24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974 M24.014,4C24.014,4,24.014,4,24.014,4C12.998,4,4.032,12.962,4.027,23.979c-0.001,3.367,0.849,6.685,2.461,9.622l-2.585,9.439c-0.094,0.345,0.002,0.713,0.254,0.967c0.19,0.192,0.447,0.297,0.711,0.297c0.085,0,0.17-0.011,0.254-0.033l9.687-2.54c2.828,1.468,5.998,2.243,9.197,2.244c11.024,0,19.99-8.963,19.995-19.98c0.002-5.339-2.075-10.359-5.848-14.135C34.378,6.083,29.357,4.002,24.014,4L24.014,4z">
-                  </path>
-                  <path fill="#40c351"
-                    d="M35.176,12.832c-2.98-2.982-6.941-4.625-11.157-4.626c-8.704,0-15.783,7.076-15.787,15.774c-0.001,2.981,0.833,5.883,2.413,8.396l0.376,0.597l-1.595,5.821l5.973-1.566l0.577,0.342c2.422,1.438,5.2,2.198,8.032,2.199h0.006c8.698,0,15.777-7.077,15.78-15.776C39.795,19.778,38.156,15.814,35.176,12.832z">
-                  </path>
-                  <path fill="#fff" fill-rule="evenodd"
-                    d="M19.268,16.045c-0.355-0.79-0.729-0.806-1.068-0.82c-0.277-0.012-0.593-0.011-0.909-0.011c-0.316,0-0.83,0.119-1.265,0.594c-0.435,0.475-1.661,1.622-1.661,3.956c0,2.334,1.7,4.59,1.937,4.906c0.237,0.316,3.282,5.259,8.104,7.161c4.007,1.58,4.823,1.266,5.693,1.187c0.87-0.079,2.807-1.147,3.202-2.255c0.395-1.108,0.395-2.057,0.277-2.255c-0.119-0.198-0.435-0.316-0.909-0.554s-2.807-1.385-3.242-1.543c-0.435-0.158-0.751-0.237-1.068,0.238c-0.316,0.474-1.225,1.543-1.502,1.859c-0.277,0.317-0.554,0.357-1.028,0.119c-0.474-0.238-2.002-0.738-3.815-2.354c-1.41-1.257-2.362-2.81-2.639-3.285c-0.277-0.474-0.03-0.731,0.208-0.968c0.213-0.213,0.474-0.554,0.712-0.831c0.237-0.277,0.316-0.475,0.474-0.791c0.158-0.317,0.079-0.594-0.04-0.831C20.612,19.329,19.69,16.983,19.268,16.045z"
-                    clip-rule="evenodd"></path>
-                </svg>
-              </div>
-            </div>
-            <div class="callback-state footerl-color">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-                <path fill="currentColor"
-                  d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z">
-                </path>
-              </svg>
-            </div>
-        
-            <div class="arcontactus-close">
-              <svg width="12" height="13" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg"
-                xmlns:xlink="http://www.w3.org/1999/xlink">
-                <g transform="translate(-4087 108)">
-                  <g>
-                    <path transform="translate(4087 -108)" fill="currentColor"
-                      d="M 14 1.41L 12.59 0L 7 5.59L 1.41 0L 0 1.41L 5.59 7L 0 12.59L 1.41 14L 7 8.41L 12.59 14L 14 12.59L 8.41 7L 14 1.41Z">
-                    </path>
-                  </g>
-                </g>
-              </svg>
-            </div>
-            <div class="pulsation footer-bg-color"></div>
-            <div class="pulsation footer-bg-color"></div>
-          </div>
-        </div>
-        <!-- footer area start -->
-        <footer>
-            <div class="rs-footer-area rs-footer-two has-theme-orange">
-                <div class="container">
-                    <div class="rs-footer-top">
-                        <div class="row g-5">
-                            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                                <div class="rs-footer-widget footer-2-col-1">
-                                     <div><img src="./assets/images/logo/apple-cera-wool-white.png" width="200px" alt=""></div>
-                                    <div class="rs-footer-widget-content">
-                                        <p class="rs-footer-widget-description">
-                                            Apple Cera Wool delivers advanced ceramic fiber and refractory solutions for industries worldwide—trusted for quality, innovation, and reliability since 2025.
-                                        </p>
-                                        <div class="rs-footer-widget-stroke-text">
-                                            <h3 class="rs-footer-stroke-text has-theme-orange">Since 2025</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                                <div class="rs-footer-widget footer-2-col-2">
-                                    <h5 class="rs-footer-widget-title">Useful Links</h5>
-                                    <div class="rs-footer-widget-content">
-                                        <div class="rs-footer-widget-links has-theme-orange">
-                                            <ul>
-                                                <li> <a href="home">Home</a> </li>
-                                                <li> <a href="about-us">About Us</a> </li>
-                                                <li><a href="#">Projects</a></li>
-                                                <li><a href="industries">Industries</a></li>
-                                                <li><a href="services">Services</a></li>
-                                                
-                                                 <!-- <li><a href="blog">Blog</a></li> -->
-                                                <li><a href="contact">Contact</a></li>
-                                                <li><a href="privacy-policy">Privacy Policy</a></li>
-                                                <li><a href="terms-of-use">Terms of use</a></li>
-                                                <li><a href="project-management.html">Project Management</a></li>
-                                                <li><a href="sitemap">Sitemap</a></li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                                <div class="rs-footer-widget footer-2-col-3">
-                                    <h5 class="rs-footer-widget-title">Office Address</h5>
-                                    <div class="rs-footer-widget-content">
-                                        <div class="rs-footer-widget-meta">
-                                            <div class="rs-footer-widget-address">
-                                               <a target="_blank" href="https://www.google.com/maps?q=14+Paiki+3,+Adalshar+Road,+Lakhatar,+Surendranagar,+Gujarat+363775">
-                                                    14 Paiki 3, Adalshar Road, Lakhatar, Surendranagar 363775
-                                                </a>
-                                            </div>
-                                            <h5 class="rs-footer-widget-title">Email Address</h5>
-                                            <p> Interested in working with us?</p>
-                                            <div class="rs-footer-widget-email">
-                                                <a href="mailto:apple.cerawool@gmail.com">apple.cerawool@gmail.com</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                                <div class="rs-footer-widget footer-2-col-4">
-                                    <h5 class="rs-footer-widget-title">Phone Number</h5>
-                                    <div class="rs-footer-widget-content">
-                                        <div class="rs-footer-widget-contact-info">
-                                            <div class="rs-footer-widget-number">
-                                                      <span>
-                                       <a href="tel:918000002234">+91 80000 02234</a>
-                                    </span>
-                                                <span>
-                                       <a href="tel:+919879595007">+91 98795 95007</a>
-                                    </span>
-                                            </div>
-                                        </div>
-                                        <h5 class="rs-footer-widget-title">Follow Us</h5>
-                                        <div class="rs-footer-widget-social">
-                                            <div class="rs-theme-social has-theme-orange">
-                                                
-                                                <a href="https://www.facebook.com/people/AppleCerawool-PvtLtd/pfbid037AKuMGUzfvh6urxaqthHBTEypse2itCK7kw5NnxDUV2gtS1CqeKHBjJF3f3GCHEwl/?rdid=vXtlWvGmxvRKuyam&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1B6iMv4467%2F"><i class="ri-facebook-fill"></i></a>
-                                                <a href="#"><i class="ri-linkedin-fill"></i></a>
-                                                <a href="https://www.instagram.com/applecerawoolpvtltd/?igsh=MTN3dmhqOXQ2Mzkyeg%3D%3D#"><i class="ri-instagram-line"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="rs-footer-copyright-area rs-copyright-one">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-xl-12">
-                                <div class="rs-footer-copyright has-theme-orange text-center">
-                                    <p class="underline">© <span id="year">2025</span> Apple Cera Wool. Designed by <a href="https://www.linkedin.com/in/patel-hitixa">Hitixa Patel</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- footer area end -->
-
-    </div>
-
-    <!-- back to top -->
-    <!-- Backtotop start -->
-    <div class="backtotop-wrap cursor-pointer">
-        <svg class="backtotop-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
-        </svg>
-    </div>
-    <!-- Backtotop end -->
-
-    <!-- JS here -->
-    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
-    <script src="assets/js/plugins/waypoints.min.js"></script>
-    <script src="assets/js/vendor/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/plugins/meanmenu.min.js"></script>
-    <script src="assets/js/plugins/swiper.min.js"></script>
-    <script src="assets/js/plugins/wow.min.js"></script>
-    <script src="assets/js/vendor/magnific-popup.min.js"></script>
-    <script src="assets/js/vendor/isotope.pkgd.min.js"></script>
-    <script src="assets/js/vendor/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/js/plugins/nice-select.min.js"></script>
-    <script src="assets/js/plugins/jarallax.min.js"></script>
-    <script src="assets/js/vendor/ajax-form.js"></script>
-    <script src="assets/js/plugins/easypie.js"></script>
-    <script src="assets/js/plugins/headding-title.js"></script>
-    <script src="assets/js/plugins/lenis.min.js"></script>
-    <script src="assets/js/plugins/gsap.min.js"></script>
-    <script src="assets/js/plugins/rs-anim-int.js"></script>
-    <script src="assets/js/plugins/rs-scroll-trigger.min.js"></script>
-    <script src="assets/js/plugins/rs-splitText.min.js"></script>
-    <script src="assets/js/plugins/jquery.lettering.js"></script>
-    <script src="assets/js/plugins/parallax-effect.min.js"></script>
-    <script src="assets/js/plugins/jquery.appear.min.js"></script>
-    <script src="assets/js/plugins/marquee.min.js"></script>
-    <script src="assets/js/plugins/chart.umd.min.js"></script>
-    <script src="assets/js/plugins/nouislider.min.js"></script>
-    <script src="assets/js/vendor/purecounter.js"></script>
-    <script src="assets/js/vendor/odometer.min.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script src=" assets/js/whatsapp.js"></script>
-
-</body>
-
-</html>
+    
+<?php
+include __DIR__ . '/A_Layout/Footer/footer.php';
+?>
