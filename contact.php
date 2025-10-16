@@ -106,7 +106,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </svg>
                                 </div>
                                 <div class="offcanvas-contact-text">
-                                    <a href="mailto:apple.cerawool@gmail.com">apple.cerawool@gmail.com</a>
+                                    <a href="mailto:info@applecerawool.com">info@applecerawool.com</a>
                                 </div>
                             </li>
                         </ul>
@@ -400,7 +400,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Chat to Support</h5>
-                                    <a href="mailto:apple.cerawool@gmail.com">apple.cerawool@gmail.com</a>
+                                    <a href="mailto:info@applecerawool.com">info@applecerawool.com</a>
                                 </div>
                             </div>
 

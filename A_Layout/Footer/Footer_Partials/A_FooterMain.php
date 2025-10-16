@@ -103,18 +103,23 @@ echo
                             </div>
                             <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
                                 <div class="rs-footer-widget footer-2-col-3">
-                                    <h5 class="rs-footer-widget-title">Office Address</h5>
                                     <div class="rs-footer-widget-content">
                                         <div class="rs-footer-widget-meta">
-                                            <div class="rs-footer-widget-address">
-                                               <a target="_blank" href="https://www.google.com/maps?q=14+Paiki+3,+Adalshar+Road,+Lakhatar,+Surendranagar,+Gujarat+363775">
-                                                    14 Paiki 3, Adalshar Road, Lakhatar, Surendranagar 363775
-                                                </a>
-                                            </div>
+                                            
                                             <h5 class="rs-footer-widget-title">Email Address</h5>
                                             <p> Interested in working with us?</p>
                                             <div class="rs-footer-widget-email">
-                                                <a href="mailto:apple.cerawool@gmail.com">apple.cerawool@gmail.com</a>
+                                                <a href="mailto:info@applecerawool.com">info@applecerawool.com</a>
+                                            </div>
+                                            <p><strong>Markting Head</strong></p>
+                                            <div class="rs-footer-widget-email">
+                                                <a href="mailto:jmr@applecerawool.com">jmr@applecerawool.com</a>
+                                                <br> <a href="tel:919712348242">+91 97123 48242</a>
+                                            </div>
+                                            <p><strong>S, R Markting Head</strong></p>
+                                            <div class="rs-footer-widget-email">
+                                                <a href="mailto:bhalder@applecerawool.com">bhalder@applecerawool.com</a>
+                                                <br> <a href="tel:919712348243">+91 97123 48243</a>
                                             </div>
                                         </div>
                                     </div>
@@ -122,6 +127,12 @@ echo
                             </div>
                             <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6">
                                 <div class="rs-footer-widget footer-2-col-4">
+                                    <h5 class="rs-footer-widget-title">Office Address</h5>
+                                            <div class="rs-footer-widget-address">
+                                               <a target="_blank" href="https://www.google.com/maps?q=14+Paiki+3,+Adalshar+Road,+Lakhatar,+Surendranagar,+Gujarat+363775">
+                                                    14 Paiki 3, Adalshar Road, Lakhatar, Surendranagar 363775
+                                                </a>
+                                            </div>
                                     <h5 class="rs-footer-widget-title">Phone Number</h5>
                                     <div class="rs-footer-widget-content">
                                         <div class="rs-footer-widget-contact-info">

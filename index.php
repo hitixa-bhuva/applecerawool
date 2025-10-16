@@ -106,7 +106,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </svg>
                                 </div>
                                 <div class="offcanvas-contact-text">
-                                    <a href="mailto:apple.cerawool@gmail.com">apple.cerawool@gmail.com</a>
+                                    <a href="mailto:info@applecerawool.com">info@applecerawool.com</a>
                                 </div>
                             </li>
                         </ul>
@@ -142,7 +142,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="rs-banner-meta-wrapper">
                             <div class="rs-banner-contact-item">
                                 <span>Email.</span>
-                                <h6><a href="mailto:apple.cerawool@gmail.com ">apple.cerawool@gmail.com </a></h6>
+                                <h6><a href="mailto:info@applecerawool.com ">info@applecerawool.com </a></h6>
                             </div>
                             <div class="rs-banner-contact-item">
                                 <span>Call.</span>
