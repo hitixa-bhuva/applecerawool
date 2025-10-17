@@ -28,7 +28,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                     </div>
                     <div class="offcanvas-about mb-30 d-none d-sm-block">
-                        <p> Apple Cera Wool provides advanced ceramic fiber and refractory insulation solutions, delivering quality, safety, and performance for industries worldwide since 2025.
+                        <p>new  Apple Cera Wool provides advanced ceramic fiber and refractory insulation solutions, delivering quality, safety, and performance for industries worldwide since 2025.
                         </p>
                     </div>
                     <div class="offcanvas-gallery d-none d-sm-block">
