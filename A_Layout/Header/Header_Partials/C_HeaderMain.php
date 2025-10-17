@@ -36,7 +36,7 @@ echo
                         
                         <nav id="mobile-menu" class="main-menu">
                             <ul class="multipage-menu">
-                                <li><a href="home">Home</a></li>
+                                <li><a href="home">home</a></li>
                                 <!-- about menu -->
                                 <li><a href="about-us">About</a></li>
                                 
