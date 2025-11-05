@@ -110,16 +110,7 @@ echo
                                             <p> Interested in working with us?</p>
                                             <div class="rs-footer-widget-email">
                                                 <a href="mailto:info@applecerawool.com">info@applecerawool.com</a>
-                                            </div>
-                                            <p><strong>Markting Head</strong></p>
-                                            <div class="rs-footer-widget-email">
-                                                <a href="mailto:jmr@applecerawool.com">jmr@applecerawool.com</a>
-                                                <br> <a href="tel:919712348242">+91 97123 48242</a>
-                                            </div>
-                                            <p><strong>S, R Markting Head</strong></p>
-                                            <div class="rs-footer-widget-email">
-                                                <a href="mailto:bhalder@applecerawool.com">bhalder@applecerawool.com</a>
-                                                <br> <a href="tel:919712348243">+91 97123 48243</a>
+                                                <a href="mailto:sales@applecerawool.com">sales@applecerawool.com</a>
                                             </div>
                                         </div>
                                     </div>
@@ -130,7 +121,7 @@ echo
                                     <h5 class="rs-footer-widget-title">Office Address</h5>
                                             <div class="rs-footer-widget-address">
                                                <a target="_blank" href="https://www.google.com/maps?q=14+Paiki+3,+Adalshar+Road,+Lakhatar,+Surendranagar,+Gujarat+363775">
-                                                    14 Paiki 3, Adalshar Road, Lakhatar, Surendranagar 363775
+                                                    Sarve No. 14/3, Adalsar Road, Lakhatar, Surendranagar - 363775 (Gujarat-India)
                                                 </a>
                                             </div>
                                     <h5 class="rs-footer-widget-title">Phone Number</h5>
@@ -138,10 +129,7 @@ echo
                                         <div class="rs-footer-widget-contact-info">
                                             <div class="rs-footer-widget-number">
                                                       <span>
-                                       <a href="tel:918000002234">+91 80000 02234</a>
-                                    </span>
-                                                <span>
-                                       <a href="tel:+919879595007">+91 98795 95007</a>
+                                      <a href="tel:918980002618">+91 89800 02618</a>
                                     </span>
                                             </div>
                                         </div>

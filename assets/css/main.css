@@ -5665,7 +5665,7 @@ html.lenis body {
 }
 .rs-header-one .rs-header-right {
   display: flex;
-  gap: 30px;
+  gap: 20px;
   align-items: center;
 }
 @media only screen and (max-width: 1600px) {
@@ -25866,4 +25866,93 @@ a.ui-button:active {
     right: 0;
     height: 100%; /* controls how far up the shadow goes */
     background: linear-gradient(to top, rgb(0 0 0 / 80%) 0%, #0000004f 60%);
+}
+
+ .download{
+        width: 40px;
+    height: 40px;
+    border: 1px solid #ea5501;
+    border-radius: 50%;
+    background: #ea55012e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.download.phone {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .download.phone {
+    display: block;
+  }
+}
+.download i{
+    color: #4D4D4D;
+}
+.phone i{
+  padding: 11px;
+}
+.modal {
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.7);
+  z-index: 9999;
+}
+
+.modal-content {
+  width: 90%;
+  max-width: 350px;
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.close {
+  float: right;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+#sendBtn {
+  width: 100%;
+  background: #EA5501;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.product-inquiry{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.modal-content .product-inquiry{
+  font-size: 15px;
+}
+.rs-footer-bg-thumb {
+  background-image: url("assets/images/bg/footer-bg-02.png");
+  background-repeat: repeat-x;
+  background-size: cover;
+  animation: moveBg 20s linear infinite;
+}
+
+/* Smooth continuous motion */
+@keyframes moveBg {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
 }

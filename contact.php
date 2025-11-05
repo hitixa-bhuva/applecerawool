@@ -82,7 +82,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 </div>
                                 <div class="offcanvas-contact-text">
                                     <a target="_blank" href="https://www.google.com/maps?q=14+Paiki+3,+Adalshar+Road,+Lakhatar,+Surendranagar,+Gujarat+363775">
-                                                    14 Paiki 3, Adalshar Road, Lakhatar, Surendranagar 363775
+                                                    Sarve No. 14/3, Adalsar Road, Lakhatar, Surendranagar - 363775 (Gujarat-India)
                                                 </a>
                                 </div>
                             </li>
@@ -94,8 +94,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </svg>
                                 </div>
                                 <div class="offcanvas-contact-text">
-                                    <a href="tel:+919879595007">+91 98795 95007</a> 
-<a href="tel:918000002234">+91 80000 02234</a>
+                                    <a href="tel:918980002618">+91 89800 02618</a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-center gap-15">
@@ -107,6 +106,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 </div>
                                 <div class="offcanvas-contact-text">
                                     <a href="mailto:info@applecerawool.com">info@applecerawool.com</a>
+                                    <a href="mailto:sales@applecerawool.com">sales@applecerawool.com</a>
                                 </div>
                             </li>
                         </ul>
@@ -369,7 +369,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Our Location </h5>
                                     <a target="_blank" href="https://www.google.com/maps?q=14+Paiki+3,+Adalshar+Road,+Lakhatar,+Surendranagar,+Gujarat+363775">
-                                        14 Paiki 3, Adalshar Road, Lakhatar, Surendranagar 363775
+                                       Sarve No. 14/3, Adalsar Road, Lakhatar, Surendranagar - 363775 (Gujarat-India)
                                     </a>
                                 </div>
                             </div>
@@ -401,6 +401,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Chat to Support</h5>
                                     <a href="mailto:info@applecerawool.com">info@applecerawool.com</a>
+                                    <a href="mailto:sales@applecerawool.com">sales@applecerawool.com</a>
                                 </div>
                             </div>
 
@@ -415,8 +416,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 </div>
                                 <div class="rs-contact-content">
                                     <h5 class="rs-contact-title">Call Us </h5>
-                                    <a href="tel:+919879595007">+91 98795 95007</a>
-                                    <a href="tel:918000002234">+91 80000 02234</a>
+                                    <a href="tel:918980002618">+91 89800 02618</a>
                                 </div>
                             </div>
                         </div>

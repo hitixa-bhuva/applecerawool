@@ -32,6 +32,7 @@ echo
     <script src="assets/js/vendor/odometer.min.js"></script>
     <script src="assets/js/main.js"></script>
     <script src=" assets/js/whatsapp.js"></script>
+    <script src=" assets/js/dev-script.js"></script>
 
 </body>
 
