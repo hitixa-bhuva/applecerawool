@@ -38,7 +38,7 @@ echo
                             <ul class="multipage-menu">
                                 <li><a href="home">home</a></li>
                                 <!-- about menu -->
-                                <li><a href="about-us">About us</a></li>
+                                <li><a href="about-us">About Us</a></li>
                                 
                                 <!-- elements menu -->
                                 <li class="has-mega-menu menu-item-has-children">
@@ -175,3 +175,4 @@ echo
 '
 
                                                   ?>
+
