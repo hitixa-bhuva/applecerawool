@@ -37,7 +37,6 @@ RewriteRule ^products/specialty-miscellaneous$ specialty-miscellaneous.php [L,NC
 RewriteRule ^services/custom-gaskets$ custom-gaskets.php [L,NC]
 RewriteRule ^services/furnace-doors$ furnace-doors.php [L,NC]
 RewriteRule ^services/machined-parts$ machined-parts.php [L,NC]
-RewriteRule ^services/vacuum-formed-shapes$ vacuum-formed-shapes.php [L,NC]
 RewriteRule ^services/coatings$ coatings.php [L,NC]
 
 # ----------------------------------------------------------
