@@ -5,7 +5,7 @@ echo
 <html lang="en">
 
 <head>
-<base href="https://localhost/apple/applecerawool/"> 
+<base href="https://applecerawool.com/"> 
 <meta charset="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
@@ -86,4 +86,5 @@ echo
   gtag("config", "G-RFEN4DL8L0");
 </script>
 '
+
     ?>
