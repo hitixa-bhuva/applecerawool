@@ -75,5 +75,16 @@ echo
 <meta name="apple-mobile-web-app-title" content="Apple Cerawool">
 <meta name="application-name" content="Apple Cerawool">
 <meta name="format-detection" content="telephone=no">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RFEN4DL8L0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "G-RFEN4DL8L0");
+</script>
 '
+
     ?>

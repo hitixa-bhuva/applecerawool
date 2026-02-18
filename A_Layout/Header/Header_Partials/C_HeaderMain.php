@@ -79,9 +79,6 @@ echo
                                         <li>
                                             <a href="services/furnace-doors">Furnace Doors</a>
                                         </li>
-                                        <li>
-                                            <a href="services/vacuum-formed-shapes">Vacuum-Formed Shapes</a>
-                                        </li>
                                         <!-- <li>
                                             <a href="services/machined-parts">Machined Parts</a>
                                         </li> -->
@@ -97,15 +94,7 @@ echo
                         </nav>
                     </div>
                     <div class="rs-header-right">
-                        <!-- Phone chip -->
-                      <div class="download phone">
-                         <a href="contact">
-                        <!-- Phone SVG -->
-                            <i class="fas fa-phone"></i>
-                       </a>
-                      </div>
-
-                       <div class="download">
+                                         <div class="download">
                        <!-- Download Icon -->
 <a href="#" id="openModal">
    <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -120,22 +109,22 @@ echo
 
   <!-- Modal Structure -->
   <div id="catalogModal" class="modal">
-    <div class="modal-content">
-      <span class="close">&times;</span>
-      <h2>Product Inquiry</h2>
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <h2 class="product-inquiry">Product Inquiry</h2>
 
-      <label>Contact Number:</label>
-      <input
-        type="text"
-        id="userNumber"
-        placeholder="Enter your number"
-        maxlength="10"
-      />
+    <label>Contact Number:</label>
+    <input
+      type="text"
+      id="userNumber"
+      placeholder="Enter your number"
+      maxlength="10"
+    />
 
-      <button id="sendBtn">Send Inquiry</button>
-      <p id="successMsg">Message sent successfully! Your catalog has been downloaded.</p>
-    </div>
+    <button id="sendBtn">Send Inquiry</button>
+    <p id="successMsg">Message sent successfully! Your catalog has been downloaded.</p>
   </div>
+</div>
 
                         
                        </div>
@@ -174,6 +163,4 @@ echo
 
 '
 
-                                                  ?>
-
-
+    ?>

@@ -5670,12 +5670,12 @@ html.lenis body {
 }
 @media only screen and (max-width: 1600px) {
   .rs-header-one .rs-header-right {
-    gap: 20px;
+    gap: 10px;
   }
 }
 @media only screen and (max-width: 1199px) {
   .rs-header-one .rs-header-right {
-    gap: 30px;
+    gap: 10px;
   }
 }
 @media only screen and (max-width: 1366px) {
@@ -25892,7 +25892,7 @@ a.ui-button:active {
 }
 .phone i{
   padding: 11px;
-}
+}/* Modal Overlay */
 .modal {
   display: none;
   position: fixed;
@@ -25900,45 +25900,233 @@ a.ui-button:active {
   top: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0,0,0,0.7);
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(4px);
   z-index: 9999;
+  animation: fadeIn 0.3s ease;
 }
 
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Modal Content Box */
 .modal-content {
   width: 90%;
-  max-width: 350px;
+  max-width: 420px;
   background: #fff;
-  padding: 20px;
-  border-radius: 12px;
+  padding: 35px 30px;
+  border-radius: 16px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  animation: slideUp 0.3s ease;
 }
 
+@keyframes slideUp {
+  from {
+    transform: translate(-50%, -40%);
+    opacity: 0;
+  }
+  to {
+    transform: translate(-50%, -50%);
+    opacity: 1;
+  }
+}
+
+/* Close Button */
 .close {
-  float: right;
-  font-size: 22px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  font-size: 28px;
+  font-weight: 300;
   cursor: pointer;
+  color: #999;
+  transition: all 0.2s ease;
+  line-height: 1;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
 }
 
+.close:hover {
+  color: #333;
+  background: #f0f0f0;
+  transform: rotate(90deg);
+}
+
+/* Heading */
+.product-inquiry {
+  font-size: 26px;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 25px;
+  margin-top: 0;
+  line-height: 1.3;
+}
+
+.modal-content .product-inquiry {
+  font-size: 26px;
+}
+
+/* Label */
+.modal-content label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  color: #444;
+  margin-bottom: 8px;
+  letter-spacing: 0.3px;
+}
+
+/* Input Field */
+.modal-content input[type="text"] {
+  width: 100%;
+  padding: 14px 16px;
+  border: 2px solid #e0e0e0;
+  border-radius: 10px;
+  font-size: 15px;
+  color: #333;
+  background: #fafafa;
+  transition: all 0.3s ease;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.modal-content input[type="text"]:focus {
+  border-color: #EA5501;
+  background: #fff;
+  box-shadow: 0 0 0 4px rgba(234, 85, 1, 0.1);
+}
+
+.modal-content input[type="text"]::placeholder {
+  color: #aaa;
+}
+
+/* Send Button */
 #sendBtn {
   width: 100%;
-  background: #EA5501;
+  background: linear-gradient(135deg, #EA5501 0%, #ff6b1a 100%);
   color: #fff;
-  padding: 12px;
+  padding: 15px;
   border: none;
-  border-radius: 6px;
+  border-radius: 10px;
   font-size: 16px;
-  margin-top: 15px;
+  font-weight: 600;
+  margin-top: 20px;
   cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(234, 85, 1, 0.3);
+  letter-spacing: 0.5px;
 }
-.product-inquiry{
-  font-size: 25px;
-  margin-bottom: 10px;
+
+#sendBtn:hover {
+  background: linear-gradient(135deg, #d14d01 0%, #EA5501 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(234, 85, 1, 0.4);
 }
-.modal-content .product-inquiry{
-  font-size: 15px;
+
+#sendBtn:active {
+  transform: translateY(0);
+}
+
+/* Success Message */
+#successMsg {
+  display: none;
+  margin-top: 18px;
+  padding: 14px 18px;
+  background: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 1.5;
+  text-align: center;
+  animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+  .modal-content {
+    width: 95%;
+    max-width: 95%;
+    padding: 28px 22px;
+    border-radius: 12px;
+  }
+
+  .product-inquiry {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+
+  .modal-content .product-inquiry {
+    font-size: 22px;
+  }
+
+  .close {
+    right: 15px;
+    top: 15px;
+    font-size: 26px;
+  }
+
+  .modal-content input[type="text"] {
+    padding: 12px 14px;
+    font-size: 14px;
+  }
+
+  #sendBtn {
+    padding: 13px;
+    font-size: 15px;
+  }
+
+  #successMsg {
+    font-size: 13px;
+    padding: 12px 14px;
+  }
+}
+
+@media (max-width: 360px) {
+  .modal-content {
+    padding: 24px 18px;
+  }
+
+  .product-inquiry {
+    font-size: 20px;
+  }
+
+  .modal-content .product-inquiry {
+    font-size: 20px;
+  }
+}
+
+/* Tablet Design */
+@media (min-width: 481px) and (max-width: 768px) {
+  .modal-content {
+    max-width: 450px;
+    padding: 40px 35px;
+  }
 }
 .rs-footer-bg-thumb {
   background-image: url("assets/images/bg/footer-bg-02.png");
